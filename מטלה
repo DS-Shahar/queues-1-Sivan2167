@@ -1,0 +1,26 @@
+package test;
+
+public class tor {
+public static boolean hh ( Queue<int> q, int num ) {
+	boolean flag = false; 
+	Queue<int> q2 = new Queue<int> ();
+	while (q.!empty) {
+		q2.head = q.insert.remove;
+		if ( flag == true ) {
+			if (q.insert == num) {
+				return flag;
+			}
+			
+		}
+		if  ( q.insert == num ) {
+			flag = true;
+		}
+	}
+	return false;
+}
+	public static void main(String[] args) {
+		
+
+	}
+
+}
